@@ -1,0 +1,9 @@
+mongoDb - database
+express - backend web framework handles api
+react - frontent
+node - runtime environment
+
+npm install express, mongoose, dotenv (env variables for security and making config easier), nodemon (allows to save and restart everytime when added as a script in package.json)
+
+setup mongoDB and add password and db name to .env file, change network access to allow from anywhere
+

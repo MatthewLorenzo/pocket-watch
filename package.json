@@ -1,0 +1,30 @@
+{
+  "name": "pocket-watch",
+  "version": "1.0.0",
+  "description": "finance tracking app using MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewLorenzo/pocket-watch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewLorenzo/pocket-watch/issues"
+  },
+  "homepage": "https://github.com/MatthewLorenzo/pocket-watch#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.5"
+  }
+}
